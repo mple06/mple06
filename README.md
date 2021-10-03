@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Minhvan!
 - 👀 I’m interested in volleyball, running, and games.
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning web development at UW - Go Huskies!
 
 <!---
 mple06/mple06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
